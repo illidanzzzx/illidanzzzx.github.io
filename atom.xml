@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>2panda blog</title>
+  <title>2panda</title>
   
   <subtitle>技术博客</subtitle>
   <link href="https://blog.2panda.top/atom.xml" rel="self"/>
