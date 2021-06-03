@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://blog.2panda.top/2021/06/03/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2021-06-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.2panda.top/tags/index.html</loc>
     
     <lastmod>2021-06-03</lastmod>
@@ -52,10 +59,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://blog.2panda.top/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://blog.2panda.top/categories/web%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2021-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.2panda.top/categories/Hexo/</loc>
     <lastmod>2021-06-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
