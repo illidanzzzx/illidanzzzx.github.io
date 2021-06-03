@@ -5,10 +5,10 @@
 # Site
 title: 2panda
 subtitle: '技术博客'
-description: 'flutter;hexo;eletron;'
+description: '技术博客'
 keywords: 'flutter;hexo;eletron;'
 author: 2panda
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next2
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -130,3 +130,10 @@ baidu_url_submit:
   host: blog.2panda.top ## 在百度站长平台中注册的域名
   token: 1De1k6f4Jf6tGAgt ## 请注意这是您的秘钥，请不要发布在公众仓库里!
   path: baidu_urls.txt ## 文本文档的地址，新链接会保存在此文本文档里
+
+# 自动截取首页文章
+excerpt:
+  depth: 5  
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
