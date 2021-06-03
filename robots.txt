@@ -1,10 +1,15 @@
-User-agent: * Allow: /
+User-agent: *
+
+Allow: /
 Allow: /archives/
+
 Disallow: /vendors/
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: https://blog.2panda.top/sitemap.xml
-Sitemap: https://blog.2panda.top/baidusitemap.xml
+
+Sitemap: http://blog.2panda.top/search.xml
+Sitemap: http://blog.2panda.top/sitemap.xml
+Sitemap: http://blog.2panda.top/baidusitemap.xml
